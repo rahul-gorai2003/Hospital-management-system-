@@ -2,6 +2,9 @@
     margin:0px;
     padding:0px;
 }
+html{
+     scroll-behaviour:smooth;
+}
 body{
     font-family:'Roboto',sans-serif;
     background-color:#eeeeee;
